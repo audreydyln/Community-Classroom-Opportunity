@@ -1,2 +1,2 @@
-# Git pull lesson for community class.
-# DevOps community class lession projects.
+# Git pull lesson for community class!
+# DevOps community class lession projects!
